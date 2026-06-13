@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Results / data / checkpoints (not part of this code-only repo)
+results/
+checkpoints/
+*.npz
+*.pt
+*.ckpt
+*.mp4
+*.log
